@@ -61,14 +61,14 @@ Python was used extensively for data cleaning **(Pandas, NumPy)**, text analysis
 
 A strong link between online orders and customer ratings
 
-![rating vs online order](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\rating_vs_online_order.png)
+![rating vs online order](images/rating_vs_online_order.png)
 
 Valuable patterns in user reviews through bigram, and trigram analysis 
 
-![bigram analysis](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\bigram_analysis.png)
+![bigram analysis](images/bigram_analysis.png)
 
-![trigram analysis](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\trigram_analysis.png)
+![trigram analysis](images/trigram_analysis.png)
 
 High-demand restaurant zones identified via geospatial heatmapping.
 
-![geo location](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\geospatial_data.png)
+![geo location](images/geospatial_data.png)
