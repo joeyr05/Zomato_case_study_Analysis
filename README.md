@@ -33,23 +33,23 @@ Python was used extensively for data cleaning **(Pandas, NumPy)**, text analysis
 
 ## Data Structure and Data types
 
-    Column                       Non-Null Count  Dtype   
- 0   index                        51672 non-null  int64  
- 1   url                          51672 non-null  object 
- 2   address                      51672 non-null  object 
- 3   name                         51672 non-null  object 
- 4   online_order                 51672 non-null  object 
- 5   book_table                   51672 non-null  object 
- 6   rate                         41654 non-null  float64
- 7   votes                        51672 non-null  int64  
- 8   phone                        50493 non-null  object 
- 9   location                     51672 non-null  object 
- 10  rest_type                    51466 non-null  object 
- 11  dish_liked                   23639 non-null  object 
- 12  cuisines                     51672 non-null  object 
- 13  approx_cost(for two people)  51352 non-null  object 
- 14  reviews_list                 51672 non-null  object 
- 15  menu_item                    51672 non-null  object 
- 16  listed_in(type)              51672 non-null  object 
- 17  listed_in(city)              51672 non-null  object 
-
+| Column Name                    | Non-Null Count | Data Type |
+|-------------------------------|----------------|-----------|
+| index                         | 51672          | int64     |
+| url                           | 51672          | object    |
+| address                       | 51672          | object    |
+| name                          | 51672          | object    |
+| online_order                  | 51672          | object    |
+| book_table                    | 51672          | object    |
+| rate                          | 41654          | float64   |
+| votes                         | 51672          | int64     |
+| phone                         | 50493          | object    |
+| location                      | 51672          | object    |
+| rest_type                     | 51466          | object    |
+| dish_liked                    | 23639          | object    |
+| cuisines                      | 51672          | object    |
+| approx_cost(for two people)   | 51352          | object    |
+| reviews_list                  | 51672          | object    |
+| menu_item                     | 51672          | object    |
+| listed_in(type)               | 51672          | object    |
+| listed_in(city)               | 51672          | object    |
