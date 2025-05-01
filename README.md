@@ -34,26 +34,26 @@ Python was used extensively for data cleaning **(Pandas, NumPy)**, text analysis
 
 ## Data Structure and Data types
 
-| Column Name                    | Non-Null Count | Data Type |
-|-------------------------------|----------------|-----------|
-| index                         | 51672          | int64     |
-| url                           | 51672          | object    |
-| address                       | 51672          | object    |
-| name                          | 51672          | object    |
-| online_order                  | 51672          | object    |
-| book_table                    | 51672          | object    |
-| rate                          | 41654          | float64   |
-| votes                         | 51672          | int64     |
-| phone                         | 50493          | object    |
-| location                      | 51672          | object    |
-| rest_type                     | 51466          | object    |
-| dish_liked                    | 23639          | object    |
-| cuisines                      | 51672          | object    |
-| approx_cost(for two people)   | 51352          | object    |
-| reviews_list                  | 51672          | object    |
-| menu_item                     | 51672          | object    |
-| listed_in(type)               | 51672          | object    |
-| listed_in(city)               | 51672          | object    |
+| Column Name                    | Data Type |
+|-------------------------------|-----------|
+| index                         | int64     |
+| url                           | object    |
+| address                       | object    |
+| name                          | object    |
+| online_order                  | object    |
+| book_table                    | object    |
+| rate                          | float64   |
+| votes                         | int64     |
+| phone                         | object    |
+| location                      | object    |
+| rest_type                     | object    |
+| dish_liked                    | object    |
+| cuisines                      | object    |
+| approx_cost(for two people)   | object    |
+| reviews_list                  | object    |
+| menu_item                     | object    |
+| listed_in(type)               | object    |
+| listed_in(city)               | object    |
 
 ## Executive Summary
 
