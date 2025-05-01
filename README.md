@@ -1,4 +1,5 @@
-z# Zomato Case Study Analysis
+# Zomato Case Study Analysis
+
 ## Project Overview
 
 Zomato is a global restaurant aggregator and food delivery service that connects users with a variety of dining options through an intuitive platform. It offers services like restaurant discovery, online ordering, and customer reviews, making it a go-to app for food lovers across cities.
@@ -53,3 +54,17 @@ Python was used extensively for data cleaning **(Pandas, NumPy)**, text analysis
 | menu_item                     | 51672          | object    |
 | listed_in(type)               | 51672          | object    |
 | listed_in(city)               | 51672          | object    |
+
+## Executive Summary
+
+**This project explores Zomato data to uncover key insights:**
+
+A strong link between online orders and customer ratings
+![rating vs online order](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\rating_vs_online_order.png)
+
+Valuable patterns in user reviews through bigram, and trigram analysis 
+![bigram analysis](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\bigram_analysis.png)
+![trigram analysis](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\trigram_analysis.png)
+
+High-demand restaurant zones identified via geospatial heatmapping.
+![geo location](C:\~LOCAL DISK D\PORTFOLIO PROJECTS\Zomato Case Study\geospatial_data.png)
